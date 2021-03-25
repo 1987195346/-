@@ -1,0 +1,1 @@
+void cleanPerson(Addressbooks *abs);
